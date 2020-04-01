@@ -1,1 +1,3 @@
 # Escola
+
+Treinamento com git
