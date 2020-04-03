@@ -3,3 +3,4 @@ Bruno
 Pedro
 João
 Yago
+José
